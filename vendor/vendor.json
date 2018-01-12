@@ -1,0 +1,168 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "jQAkvbVvzhqVqn3Kjh2kgyTKahg=",
+			"path": "github.com/Azure/azure-storage-go",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "ghrnc4vZv6q8zzeakZnrS8CGFhE=",
+			"path": "github.com/Azure/go-autorest/autorest/azure",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "USkefO0g1U9mr+8hagv3fpSkrxg=",
+			"path": "github.com/aristanetworks/goarista/monotime",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "fIpm6Vr5a8kgr22gWkQx7vKUTyU=",
+			"path": "github.com/btcsuite/btcd/btcec",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "2Fy1Y6Z3lRRX1891WF/+HT4XS2I=",
+			"path": "github.com/dgrijalva/jwt-go",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "7oFpbmDfGobwKsFLIf6wMUvVoKw=",
+			"path": "github.com/fatih/color",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "KZ3QD2QgUS4RcoKiA3mn5pSlJxQ=",
+			"path": "github.com/go-stack/stack",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "I4njd26dG5hxFT2nawuByM4pxzY=",
+			"path": "github.com/mattn/go-colorable",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "EkT5JmFvz3zOPWappEFyYWUaeY0=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "Se195FlZ160eaEk/uVx4KdTPSxU=",
+			"path": "github.com/pborman/uuid",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "4SfJoLxQlfSSQjBIMqK+IgNxLMk=",
+			"path": "github.com/peterh/liner",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "KAzbLjI9MzW2tjfcAsK75lVRp6I=",
+			"path": "github.com/rcrowley/go-metrics",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "q/d9nXRQYKEJ/EWn+5y6jL8rPGs=",
+			"path": "github.com/rcrowley/go-metrics/exp",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "yOMpVYuaPAtsMIo9DvQP8WZqxQs=",
+			"path": "github.com/rjeczalik/notify",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "5uqO4ITTDMklKi3uNaE/D9LQ5nM=",
+			"path": "github.com/robertkrimen/otto",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "qgziiO3/QDVJMKw2nGrUbC8QldY=",
+			"path": "github.com/robertkrimen/otto/ast",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "L0KsB2EzTlPgv0iae3q3SukNW7U=",
+			"path": "github.com/robertkrimen/otto/dbg",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "euDLJKhw4doeTSxjEoezjxYXLzs=",
+			"path": "github.com/robertkrimen/otto/file",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "LLuLITFO8chqSG0+APJIy5NtOHU=",
+			"path": "github.com/robertkrimen/otto/parser",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "7J/7NaYRqKhBvZ+dTIutsEoEgFw=",
+			"path": "github.com/robertkrimen/otto/registry",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "/jMXYuXycBpTqWhRyJ2xsqvHvQI=",
+			"path": "github.com/robertkrimen/otto/token",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "LjPdvMphElL0GOVNQCsmZMVgWIw=",
+			"path": "github.com/rs/cors",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "7cb7m0YpXaebVK1GyS1kwMKk4J4=",
+			"path": "golang.org/x/crypto",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "IIhFTrLlmlc6lEFSitqi4aw2lw0=",
+			"path": "golang.org/x/crypto/openpgp",
+			"revision": "c7af5bf2638a1164f2eb5467c39c6cffbd13a02e",
+			"revisionTime": "2017-04-25T18:31:00Z"
+		},
+		{
+			"checksumSHA1": "1MGpGDQqnUoRpv7VEcQrXOBydXE=",
+			"path": "golang.org/x/crypto/pbkdf2",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "E8pDMGySfy5Mw+jzXOkOxo35bww=",
+			"path": "golang.org/x/crypto/scrypt",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "7EZyXN0EmZLgGxZxK01IJua4c8o=",
+			"path": "golang.org/x/net/websocket",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "NGg7/qIJVUfXi7xnEyyDLocdi6Y=",
+			"path": "gopkg.in/fatih/set.v0",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "0xgs8lwcWLUffemlj+SsgKlxvDU=",
+			"path": "gopkg.in/natefinch/npipe.v2",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "4BwmmgQUhWtizsR2soXND0nqZ1I=",
+			"path": "gopkg.in/sourcemap.v1",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "GDXPA04g0Dfwu2w++JiOKkYuZEc=",
+			"path": "gopkg.in/sourcemap.v1/base64vlq",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "Yx1MU40fyGe7hhqW9+dkv8kXa60=",
+			"path": "gopkg.in/urfave/cli.v1",
+			"revision": ""
+		}
+	],
+	"rootPath": "github.com/ofbank_wallet/OFBANK_WELLET"
+}
