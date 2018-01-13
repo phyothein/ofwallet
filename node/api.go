@@ -20,7 +20,7 @@ import (
 
 const (
 	DEFAULTGAS  = 50000
-	SUPERNODEIP = "http://127.0.0.1:8888"
+	SUPERNODEIP = "http://118.190.146.53:8888"
 )
 
 type OFBankAPI struct {
